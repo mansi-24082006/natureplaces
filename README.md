@@ -1,2 +1,2 @@
-Here is the live link to my project: [Project](https://mansi-24082006.github.io/natureplaces/)
+Here is the live link to my project: [Project](https://mansi-24082006.github.io/natureplaces/).
 
